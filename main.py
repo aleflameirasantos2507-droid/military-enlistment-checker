@@ -58,6 +58,4 @@ This project demonstrates:
 - Decision-making logic
 - Formatted output
 
-## Note
 
-This project uses a fixed reference year and enlistment age for educational purposes. In a real-world application, the current year should be obtained automatically.
